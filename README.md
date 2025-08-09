@@ -16,7 +16,7 @@ Este proyecto se propone indagar sobre:
 2. ¿Cuál es la tendencia de las habilidades más demandadas para los Data Analysts?
 
 # Herramientas
-El análisis de desarrolló con las siguientes herramientas:
+El análisis se desarrolló con las siguientes herramientas:
 - **Python** y las siguientes librerías:
     - **Pandas:** para analizar los datos.
     - **Matplotlib:** para visualizar los datos.
@@ -78,14 +78,14 @@ for i, job_title in enumerate(job_titles):
 
 plt.show()
 ```
-![Gráfico de top 5 skills para el top 3 de puestos de Data en Argentina](images\barplot_skill_demand.png)
+![Gráfico de top 5 skills para el top 3 de puestos de Data en Argentina](images/barplot_skill_demand.png)
 
 ### Insights
 - SQL es la habilidad más requerida para Data Analysts y Data Engineers, mientras que para Data Scientists, Python es la más requerida.
 - SQL y Python aparecen en los tres puestos.
 
 ## 2. ¿Cuál es la tendencia de las habilidades más demandadas para los Data Analysts?
-![Gráfico de las skills en tendencia para puestos de Data Analysts](images\lineplot_skills_trend.png)
+![Gráfico de las skills en tendencia para puestos de Data Analysts](images/lineplot_skills_trend.png)
 
 ### Insights
 - SQL es la habilidad que mayor permanencia tiene durante el año, con un pico en el mes de mayo.
